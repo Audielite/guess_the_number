@@ -4,6 +4,7 @@ correct = 'you guessed correctly!'
 too_low = 'too low'
 too_high = 'too high'
 
+# This is the code for lab 2 that I am about to work on.
 
 def configure_range():
     '''Set the high and low values for the random number'''
