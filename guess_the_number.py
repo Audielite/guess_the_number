@@ -1,7 +1,7 @@
 import random
 
 correct = 'you guessed correctly!'
-too_low = 'too low'
+too_low = 'toolow'
 too_high = 'too high'
 
 # This is the code for lab 2 that I am about to work on.
